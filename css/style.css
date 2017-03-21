@@ -1,0 +1,14 @@
+form {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 50px;
+}
+
+label {
+  display: block;
+}
+
+svg{
+	padding:100px;
+}
